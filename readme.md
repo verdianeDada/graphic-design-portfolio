@@ -1,7 +1,7 @@
 # My Graphic Design Portfolio
 
 <p align="center">
-  <img  width="50%" alt="Demo Image" src="https://github.com/verdianeDada/graphic-design-portfolio/blob/master/Demo.jpg">
+  <img  width="50%" alt="Demo Image" src="https://github.com/verdianeDada/graphic-design-portfolio/blob/master/Demo.png">
 </p>
 
 
