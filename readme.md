@@ -9,7 +9,7 @@
 This is just a presentation of some of the graphic designs I've worked on!
 
 ## Software
-I've currently used:
+I've actually used:
 - ```Microsoft Publisher``` 
 - ```Adobe Photoshop``` 
 - ```Sothing Logo Maker``` 
