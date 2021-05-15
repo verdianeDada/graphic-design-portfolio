@@ -10,6 +10,8 @@ This is just a presentation of some of the graphic designs I've worked on!
 
 ## Software
 I've actually used:
-- ```Microsoft Publisher``` 
+- ```Adobe XD``` 
+- ```Adobe Illustrator``` 
 - ```Adobe Photoshop``` 
+- ```Microsoft Publisher``` 
 - ```Sothing Logo Maker``` 
